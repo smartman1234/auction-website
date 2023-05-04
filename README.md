@@ -74,7 +74,7 @@
 
 ## 📙 About this Project
 
-This project is a rewrite of a previous monolithic auction website I wrote. The repository for my monolithic auction website can be found [here.](https://github.com/jarrodmalkovic/auction-website-monolith) The purpose of this rewrite was to gain experience utilizing a microservices architecture after completing [Stephen Griders course on Microservices](https://www.udemy.com/course/microservices-with-node-js-and-react/).
+This project is a rewrite of a previous monolithic auction website I wrote. The purpose of this rewrite was to gain experience utilizing a microservices architecture after completing [Stephen Griders course on Microservices](https://www.udemy.com/course/microservices-with-node-js-and-react/).
 
 ## 🚀 Local Development
 
@@ -82,7 +82,7 @@ This project is a rewrite of a previous monolithic auction website I wrote. The 
 ### Clone the respository locally
 
 ```bash
-git clone https://github.com/jarrodmalkovic/auction-website.git
+git clone https://github.com/smartman1234/auction-website.git
 ```
 
 ### Edit your hosts file
@@ -156,7 +156,4 @@ skaffold dev
 ### Open the project in your browser
 - The project will now be available locally on the domain auctionweb.site in your browser. If you are using Google Chrome you may have to type "thisisunsafe" while on the page to bypass a security warning
 
-## ⚖️ License
-
-This project is licensed under the Unlicense License
 
