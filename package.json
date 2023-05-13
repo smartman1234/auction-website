@@ -4,15 +4,15 @@
   "description": "Run Locally",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarrodjm/auction-website.git"
+    "url": "git+https://github.com/smartman1234/auction-website.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/jarrodjm/auction-website/issues"
+    "url": "https://github.com/smartman1234/auction-website/issues"
   },
-  "homepage": "https://github.com/jarrodjm/auction-website#readme",
+  "homepage": "https://github.com/smartman1234/auction-website#readme",
   "importSort": {
     ".js, .jsx, .ts, .tsx": {
       "style": "module",
